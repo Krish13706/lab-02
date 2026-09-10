@@ -5,7 +5,9 @@
 - **CCID:** 1872629
 
 ## References and Resources
-`N/A`
+https://ualberta-cmput301.github.io/labs/slides/2026-Lab-2-Android-Basics.pdf
+
+https://ualberta-cmput301.github.io/labs/slides/2026-Lab-2-ListyCity-Instructions.pdf
 
 ## Verbal Collaboration
 `N/A`
